@@ -13,10 +13,6 @@ validation programs.
 
 | Notebook | Short description | Links | Owner  |
 |----------|-------------------|-------|--------|
-| DC2 Postage Stamps 
-    | Make some small cutout images and visualize them   
-        | [ipynb](Notebooks/DC2 Postage Stamps.ipynb), [html](https://github.com/LSSTDESC/DC2_Repo/blob/html/Notebooks/DC2_Postage_Stamps.html)  
-            | [Michael Wood-Vasey](https://github.com/LSSTDESC/DC2_Repo/issues/new?body=@wmwv) 
-    |
+| DC2 Postage Stamps | Make some small cutout images and visualize them | [ipynb](Notebooks/DC2%20Postage%20Stamps.ipynb), [html](https://raw.githubusercontent.com/LSSTDESC/DC2_Repo/html/Notebooks/DC2_Postage_Stamps.html) | [Michael Wood-Vasey](https://github.com/LSSTDESC/DC2_Repo/issues/new?body=@wmwv) |
 |   |   |   |   |
 |   |   |   |   |
